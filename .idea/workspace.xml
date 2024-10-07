@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4682432d-6857-4d19-9955-d692f9e1cf76" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/aula07Calculadora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula07Desafio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula07Desafio2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Gabriel/PycharmProjects/interprete",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
