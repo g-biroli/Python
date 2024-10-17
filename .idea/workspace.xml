@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4682432d-6857-4d19-9955-d692f9e1cf76" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/aula07ConversaoMedidas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07Tabuada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
   "keyToString": {
     "Python.001.executor": "Run",
     "Python.Aula07MediaAritmetica.executor": "Run",
+    "Python.Aula07Tabuada.executor": "Run",
     "Python.Aula08Desafio.executor": "Run",
     "Python.CalculadoraBasica.executor": "Run",
     "Python.aula06a.executor": "Run",
@@ -76,7 +78,7 @@
       <recent name="C:\Users\Gabriel\OneDrive\DEV\GIT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula07MediaAritmetica">
+  <component name="RunManager" selected="Python.Aula07Tabuada">
     <configuration name="Aula07AntecessorESucessor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -121,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula07Desafio1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula07Tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula07Desafio1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula07Tabuada.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula07Tabuada" />
         <item itemvalue="Python.Aula07MediaAritmetica" />
         <item itemvalue="Python.aula07DobroTriploRaiz" />
         <item itemvalue="Python.Aula07AntecessorESucessor" />
         <item itemvalue="Python.aula07Desafio2" />
-        <item itemvalue="Python.aula07Desafio1" />
       </list>
     </recent_temporary>
   </component>
