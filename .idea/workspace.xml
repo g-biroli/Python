@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4682432d-6857-4d19-9955-d692f9e1cf76" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/Aula08Desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula09Ex1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,32 +49,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CalculadoraBasica.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07Desafio1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07Desafio2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabriel/PycharmProjects/interprete&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.001.executor": "Run",
+    "Python.Aula08Desafio.executor": "Run",
+    "Python.CalculadoraBasica.executor": "Run",
+    "Python.aula06a.executor": "Run",
+    "Python.aula06b.executor": "Run",
+    "Python.aula07Desafio1.executor": "Run",
+    "Python.aula07Desafio2.executor": "Run",
+    "Python.aula07a.executor": "Run",
+    "Python.aula09Ex1.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Gabriel/PycharmProjects/interprete",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gabriel\OneDrive\DEV\GIT\Python" />
       <recent name="C:\Users\Gabriel\OneDrive\DEV\GIT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula08Desafio">
+  <component name="RunManager" selected="Python.aula09Ex1">
     <configuration name="Aula08Desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -89,28 +91,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula08Desafio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Gabriel\PycharmProjects\Python\aula04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,13 +165,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula09Ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula09Ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula09Ex1" />
         <item itemvalue="Python.Aula08Desafio" />
         <item itemvalue="Python.aula07Desafio2" />
         <item itemvalue="Python.aula07Desafio1" />
         <item itemvalue="Python.aula07Calculadora" />
-        <item itemvalue="Python.aula04" />
       </list>
     </recent_temporary>
   </component>
