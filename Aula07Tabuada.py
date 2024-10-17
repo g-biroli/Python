@@ -13,6 +13,7 @@ n9 = n * 9
 n10 = n * 10
 
 print('A tabuada do número {} é:'.format(n))
+print('-'* 12)
 print('{} x 1 = {}'.format(n, n1))
 print('{} x 2 = {}'.format(n, n2))
 print('{} x 3 = {}'.format(n, n3))
@@ -23,3 +24,4 @@ print('{} x 7 = {}'.format(n, n7))
 print('{} x 8 = {}'.format(n, n8))
 print('{} x 9 = {}'.format(n, n9))
 print('{} x 10 = {}'.format(n, n10))
+print('-'* 12)
