@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4682432d-6857-4d19-9955-d692f9e1cf76" name="Changes" comment="teste">
+      <change afterPath="$PROJECT_DIR$/Aula08Desafio.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,25 +49,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.001.executor": "Run",
-    "Python.CalculadoraBasica.executor": "Run",
-    "Python.aula06a.executor": "Run",
-    "Python.aula06b.executor": "Run",
-    "Python.aula07Desafio1.executor": "Run",
-    "Python.aula07Desafio2.executor": "Run",
-    "Python.aula07a.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex004.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Gabriel/PycharmProjects/interprete",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CalculadoraBasica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07Desafio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07Desafio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabriel/PycharmProjects/interprete&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gabriel\OneDrive\DEV\GIT\Python" />
