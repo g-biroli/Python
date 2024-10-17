@@ -1,4 +1,4 @@
-#Convertendo graus Celsius para outras medidas
+#Convertendo graus Celsius para fahrenheit
 
 c = float(input('Informe a temperatura em ºC: '))
 f = ((9*c) / 5) + 32
