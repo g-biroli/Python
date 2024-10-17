@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4682432d-6857-4d19-9955-d692f9e1cf76" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/Aula07Tabuada.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula07ConvertorDeMoeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula07ConvertorDeMoeda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.CalculadoraBasica.executor": "Run",
     "Python.aula06a.executor": "Run",
     "Python.aula06b.executor": "Run",
+    "Python.aula07ConvertorDeMoeda.executor": "Run",
     "Python.aula07Desafio1.executor": "Run",
     "Python.aula07Desafio2.executor": "Run",
     "Python.aula07a.executor": "Run",
@@ -78,7 +79,7 @@
       <recent name="C:\Users\Gabriel\OneDrive\DEV\GIT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula07Tabuada">
+  <component name="RunManager" selected="Python.aula07ConvertorDeMoeda">
     <configuration name="Aula07AntecessorESucessor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -145,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula07Desafio2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula07ConvertorDeMoeda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula07Desafio2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula07ConvertorDeMoeda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula07ConvertorDeMoeda" />
         <item itemvalue="Python.Aula07Tabuada" />
         <item itemvalue="Python.Aula07MediaAritmetica" />
         <item itemvalue="Python.aula07DobroTriploRaiz" />
         <item itemvalue="Python.Aula07AntecessorESucessor" />
-        <item itemvalue="Python.aula07Desafio2" />
       </list>
     </recent_temporary>
   </component>
