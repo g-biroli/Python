@@ -74,8 +74,8 @@
       <recent name="C:\Users\Gabriel\OneDrive\DEV\GIT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula07Desafio2">
-    <configuration name="CalculadoraSoma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula08Desafio">
+    <configuration name="Aula08Desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Gabriel\PycharmProjects\Python\CalculadoraSoma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula08Desafio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula08Desafio" />
         <item itemvalue="Python.aula07Desafio2" />
         <item itemvalue="Python.aula07Desafio1" />
         <item itemvalue="Python.aula07Calculadora" />
         <item itemvalue="Python.aula04" />
-        <item itemvalue="Python.CalculadoraSoma" />
       </list>
     </recent_temporary>
   </component>
