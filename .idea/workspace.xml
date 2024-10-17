@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4682432d-6857-4d19-9955-d692f9e1cf76" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/aula09Ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07MediaAritmetica.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula08Desafio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07AntecessorESucessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula09Ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula07DobroTriploRaiz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.001.executor": "Run",
+    "Python.Aula07MediaAritmetica.executor": "Run",
     "Python.Aula08Desafio.executor": "Run",
     "Python.CalculadoraBasica.executor": "Run",
     "Python.aula06a.executor": "Run",
@@ -76,8 +79,8 @@
       <recent name="C:\Users\Gabriel\OneDrive\DEV\GIT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula09Ex1">
-    <configuration name="Aula08Desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula07MediaAritmetica">
+    <configuration name="Aula07AntecessorESucessor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula08Desafio.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Gabriel\PycharmProjects\Python\Aula07AntecessorESucessor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula07Calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula07MediaAritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Gabriel\PycharmProjects\Python\aula07Calculadora.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula07MediaAritmetica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula09Ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula07DobroTriploRaiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +181,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula09Ex1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Gabriel\PycharmProjects\Python\aula07DobroTriploRaiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula09Ex1" />
-        <item itemvalue="Python.Aula08Desafio" />
+        <item itemvalue="Python.Aula07MediaAritmetica" />
+        <item itemvalue="Python.aula07DobroTriploRaiz" />
+        <item itemvalue="Python.Aula07AntecessorESucessor" />
         <item itemvalue="Python.aula07Desafio2" />
         <item itemvalue="Python.aula07Desafio1" />
-        <item itemvalue="Python.aula07Calculadora" />
       </list>
     </recent_temporary>
   </component>
