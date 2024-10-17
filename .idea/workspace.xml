@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4682432d-6857-4d19-9955-d692f9e1cf76" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/aula07AreaParede.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula07Porcentagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07AumentoSalario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07ConversorDeTemperatura.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07MediaAritmetica.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula07MediaAritmetica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07Tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula07Tabuada.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.001.executor": "Run",
+    "Python.Aula07AumentoSalario.executor": "Run",
+    "Python.Aula07ConversorDeTemperatura.executor": "Run",
     "Python.Aula07MediaAritmetica.executor": "Run",
     "Python.Aula07Tabuada.executor": "Run",
     "Python.Aula08Desafio.executor": "Run",
@@ -65,6 +65,7 @@
     "Python.aula07ConvertorDeMoeda.executor": "Run",
     "Python.aula07Desafio1.executor": "Run",
     "Python.aula07Desafio2.executor": "Run",
+    "Python.aula07Porcentagem.executor": "Run",
     "Python.aula07a.executor": "Run",
     "Python.aula09Ex1.executor": "Run",
     "Python.ex001.executor": "Run",
@@ -83,7 +84,51 @@
       <recent name="C:\Users\Gabriel\OneDrive\DEV\GIT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula07Porcentagem">
+  <component name="RunManager" selected="Python.Aula07ConversorDeTemperatura">
+    <configuration name="Aula07AumentoSalario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula07AumentoSalario.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula07ConversorDeTemperatura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula07ConversorDeTemperatura.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="aula07AreaParede" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -128,28 +173,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula07MediaAritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Gabriel\PycharmProjects\Python\aula07MediaAritmetica.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="aula07Porcentagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -172,35 +195,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula07Tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Gabriel\PycharmProjects\Python\aula07Tabuada.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula07ConversorDeTemperatura" />
+        <item itemvalue="Python.Aula07AumentoSalario" />
         <item itemvalue="Python.aula07Porcentagem" />
         <item itemvalue="Python.aula07AreaParede" />
         <item itemvalue="Python.aula07ConvertorDeMoeda" />
-        <item itemvalue="Python.aula07Tabuada" />
-        <item itemvalue="Python.aula07MediaAritmetica" />
       </list>
     </recent_temporary>
   </component>
