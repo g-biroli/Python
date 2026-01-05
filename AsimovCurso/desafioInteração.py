@@ -28,3 +28,13 @@ for valor in valores:
         maximo = valor
 
 print(f'O valor máximo é: {maximo}')
+print('\n\n\n\n')
+
+#----------------------------------#
+#Descobrir palavra com mais de 5 caracter em uma lista
+
+palavras = ['python', 'programação', 'gabriel biroli', 'gabriel jesus', 'endrick']
+
+for palavra in palavras:
+    if len(palavra) >= 10:
+        print(f'{palavra}')
