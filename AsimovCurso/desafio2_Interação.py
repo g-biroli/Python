@@ -7,3 +7,5 @@ for lista1 in lista_jogadores1:
     for lista2 in lista_jogadores2:
         if lista1 == lista2:
             print(f'Os jogadores duplicados são: {lista1}')
+
+
