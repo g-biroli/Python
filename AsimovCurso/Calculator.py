@@ -2,7 +2,7 @@
 import streamlit as st
 
 # Project Title
-st.title('🤖 Welcome to your inteligent calculator')
+st.title('🤖 Welcome to your intelligent calculator')
 
 # Numeric input required
 # User must enter a numeric value
