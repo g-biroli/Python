@@ -29,9 +29,12 @@ if st.button('Calculate'):
     
     elif operation == 'Division':
         if num2 == 0:
-            st.error('Error, this operation doesnt works when the divisor = 0')
+            st.error('⚠️ Error ⚠️ This operation does not work when the divisor is 0.')
             result = None
         else:
             num1 / num2
 
+    # Result
+    if result is not None:
+        st.success(f'🚀 The result is {result}')
 
