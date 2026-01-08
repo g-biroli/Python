@@ -6,11 +6,6 @@ capitais = {
     'França': 'Paris'
     }
 
-pais = 'Alemanha'
+capitais.clear()
 
-if pais in capitais:
-    capital = capitais[pais]
-    print(f'O pais {pais} possui a capital {capital}')
-else:
-    print(f'Não há registros de capitais para o pais {pais}')
-
+print(capitais)
